@@ -1,0 +1,151 @@
+site_name: XJTLU WuResearchGroup Wiki
+site_url: https://wugroupwiki.github.io
+repo_name: WuGroupWiki/WuGroupWiki
+repo_url: https://github.com/WuGroupWiki/WuGroupWiki
+extra:
+  social:
+    - icon: material/web
+      link: https://github.com/WuGroupWiki
+      name: Research Group Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/WuGroupWiki
+      name: Research Group Github
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:zhenghao.wu@xjtlu.edu.cn
+      name: Contact Dr. Zhenghao Wu
+  author_name: '{{ page.meta.authors }}'
+
+plugins:
+  - search:
+      separator: '[\s\-\.]'
+  - macros
+theme:
+  name: material
+  custom_dir: overrides
+  logo: images/group_logo.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for automatic mode
+    #- media: "(prefers-color-scheme)"
+    #  toggle:
+    #    icon: material/brightness-auto
+    #    name: Switch to light mode
+    #- media: "(prefers-color-scheme: light)"
+    #  scheme: default
+    #  primary: deep purple
+    #  toggle:
+    #    icon: material/lightbulb
+    #    name: Switch to dark mode
+    #- media: "(prefers-color-scheme: dark)"
+    #  scheme: slate 
+    #  primary: deep purple
+    #  toggle:
+    #    icon: material/lightbulb-outline
+    #    name: Switch to automatic mode
+  favicon: images/group_logo.png
+  language: en
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.top
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - content.tooltips
+    - search.suggest
+    - content.code.annotate
+
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/analytic.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - css/avatar.css
+
+nav:
+  - Home: index.md
+  - Wikis:
+      - Getting Started: wiki/how_to_edit/howtodo.md
+      - Training for New Members:
+          - wiki/new_comers/toc.md
+          - wiki/new_comers/linux/2024.md
+          - wiki/new_comers/read_papers/2024.md
+          # 2024 presentation needs update
+          - wiki/new_comers/presentation/2024.md  
+          - wiki/new_comers/python/2024.md
+          - wiki/new_comers/tools/2024-ase.md
+          - wiki/new_comers/md/2024-md.md
+          - wiki/new_comers/md/2025-cmd.md
+          - wiki/new_comers/ai/2024-ai.md
+          - wiki/new_comers/ai/2024-train.md
+      #- Cluster Usage:
+      #    - wiki/cluster_usage/cluster_usage.md
+      #    - wiki/cluster_usage/ssh_note.md
+      #    - wiki/cluster_usage/gpu_usage.md
+      #    - wiki/cluster_usage/conda.md
+      #    - wiki/cluster_usage/vscode_remote.md
+      #    - wiki/cluster_usage/wsl_usage.md
+      #     - wiki/cluster_usage/pack_backup.md
+      #- wiki/book_recommendation.md
+      #- Teamwork & Collaboration:
+      #    - wiki/teamwork/archive_rules.md
+      #    - wiki/teamwork/git_usage.md
+      #- Software Usage:
+      #    - wiki/software_usage/default_version.md
+      #    - wiki/software_usage/MDAnalysis.md
+      #    - wiki/software_usage/Tips_for_LaTeX.md
+      #- Software Installation:
+      #    - wiki/software_installation/softwares.md
+      #    - wiki/software_installation/install_from_src_in_conda.md
+      #    - wiki/software_installation/gcc.md
+      #    - wiki/software_installation/cp2k-7.1.md
+      #- Software Development:
+      #    - wiki/teamwork/git_usage.md
+      #    - Lammps:
+      #        - wiki/software_development/lammps/quick_start.md
+      #        - wiki/software_development/lammps/installation.md
+      #        - wiki/software_development/lammps/plugin.md
+      #- Research Skills:
+      #    - wiki/skills/research_skill.md
+      #    - wiki/skills/QS4writing.md
+      #- Miscellaneous: wiki/miscellaneous.md
