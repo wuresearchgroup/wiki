@@ -19,7 +19,7 @@ This Wiki contains both technical and foundational knowledge essential for every
 4. [For Group Members: How to Edit and Contribute to Wiki](wiki/how_to_edit/howtodo.md)
 5. [For Cluster Administrators: Common Software Installation](wiki/software_installation/softwares.md)
 
-> **Note**: Some training materials in this Wiki are from the original ChengGroup (Xiamen University) and are retained as technical references. New training materials will gradually be updated to reflect the (M)^3 Research Group.
+> **Note**: Some training materials in this Wiki are from the other groups (e.g., Prof. Jun Cheng) and are retained as technical references. New materials will gradually be updated.
 
 ## If You Have Questions
 

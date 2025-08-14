@@ -60,16 +60,18 @@ On the cluster, `Anaconda` has already been installed for everyone. For instruct
 
 <div class="annotate" markdown>
 
-- [:fontawesome-solid-book: Simulations: the dark side](https://arxiv.org/pdf/1211.4440v1)
+- [:material-file-multiple: How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [:fontawesome-solid-book: Understanding Molecular Dynamics (First 3 chapters)](../book_recommendation.md)
-- [:fontawesome-brands-bilibili: Introduction to Linux (including Windows environment setup + Git introduction)](./linux/2024.md) 
-- [:fontawesome-brands-bilibili: How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [:fontawesome-solid-book: Molecular Simulations of Polymers](https://pubs.acs.org/doi/pdf/10.1021/acs.macromol.8b01836?ref=article_openPDF)
+- [:fontawesome-solid-book: Coarse-Graining Models](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c08731?ref=article_openPDF)
+- [:fontawesome-solid-book: Machine Learning Force Fields](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c01111?ref=article_openPDF)
+- [:fontawesome-brands-bilibili: Introduction to Linux (including Windows environment setup + Git introduction)](./linux/2024.md)
 - [:fontawesome-brands-bilibili: Python Tutorial](./python/2024.md)
-- [:fontawesome-brands-bilibili: ASE & Packmol Model Build Basics](./tools/2024-ase.md)
-
+- 
 </div>
 
 ## Optional Learning (Project-specific)
+
 
 ### Statistical Mechanics
 
@@ -77,13 +79,17 @@ On the cluster, `Anaconda` has already been installed for everyone. For instruct
 - [:material-file-multiple: David Tong at DAMTP, Cambridge: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html) 
 - [:material-file-multiple: Lectures on Statistical Physics](https://www.damtp.cam.ac.uk/user/tong/statphys.html) 
 
-
 ### Molecular Dynamics
 
 - [:fontawesome-solid-book: Foundations in Molecular Simulations](https://livecomsjournal.org/index.php/livecoms/article/view/v1i1e5957)
 - [:fontawesome-solid-book: Quantification of Uncertainty and Sampling Quality in Molecular Simulations](https://livecomsjournal.org/index.php/livecoms/article/view/v1i1e5067)
 - [:fontawesome-solid-book: Understanding Molecular Dynamics by Smit and Frenkel (First 3 Chapters)](../book_recommendation.md)
 - [:fontawesome-brands-bilibili: 分子动力学/机器学习分子动力学实践](./md/2024-md.md)
+
+### Polymer Physics and Chemistry
+- [:fontawesome-solid-book: Polymer Physics by Rubinstein and Colby](../book_recommendation.md) 
+- [:fontawesome-solid-book: The Theory of Polymer Dynamics by Edwards and Doi](../book_recommendation.md) 
+- [:fontawesome-solid-book: Scaling concepts in polymer physics](../book_recommendation.md) 
 
 ### Machine Learning
 
@@ -102,17 +108,18 @@ On the cluster, `Anaconda` has already been installed for everyone. For instruct
 ### Machine Learning Force Fields
 
 - [:material-file-multiple: A practical guide to machine learning interatomic potentials](https://pdf.sciencedirectassets.com/272101/1-s2.0-S1359028625X00024/1-s2.0-S1359028625000014/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCytEsAip2qstC%2F%2BPOkn4sVQHYbe0%2BvWhmBhBjtilDtaAIgda4IWtcpn3HZdzyfGAPvAOPoApTkrghMnN1SbGOXmpEqsgUIJRAFGgwwNTkwMDM1NDY4NjUiDL4eYLAcGEqw2vmZVSqPBf25%2Ffl4Na86og7b0z%2FaIddSfVDb4konnUlexm1CPvLD4McTdHt14US95gLr4TM4JVrvRJdjZwlLCkAOul9k%2FEKV4ZD9V3z3F%2BkRWZOZCVtjaWPbOqnJt5zumfa5XiKCgPdnpQjtOoGA0LvybxXkVRPqakxAg4xJG%2FQ3XKu8XSGss66aFdcvtCyhoKrUKJ45vyXzCvmHdCuprywCW5ZI%2BoBolGA70XxF2q2KyMpRQ4Vmt%2Bmew5WU4XdP8KxmeCXseMDU%2FWKdhtnyEfS9nhh3UIYVXEnvXYr6MCcbRBXya0GpqY5AJxmp0C5QTW37qjNxdPSZJEmDGrRJ6j2d2jjbDxqEtdAO8tjhSqVzmOmDasVBZyyyfnLsdezvIAmqAph8Lh3tG9SA4CkvWzMuxho2a83aw5Qu%2BVN%2FY%2Fe%2F%2ByVMz%2B786Vy9rKSI2G0qtE0sdEuQq%2BqxZI1cwE962xzvMCNNF8uz3cr8rJ4i2nApdQb3h00NtidZA0b62NtL6bJnY3T32ZSuh0Bya0ykRiD4ag2iO2wUbU%2B9kFQT1YFJw7O9qUfgrlp300ys%2FhJPAKNESMxmj2WkOyU%2BHtrYIB6HtJNwKGUGxcpHq%2FJwQWexhqahbpfkFBvoizX1BBzJ0gq8Lkj2R3G%2BjdYd0wpUGA2k6X6%2BWnOLk8wEVQ%2FLPtdWY9k176H2zsxWXLJdSp04VSBKPdSoplMnv2FbjB%2FH2oQ8D4K2z30ryOSgZYrQzCWeCHJA8Ep5ozMJHPdDGXeLqEP1uijYLvYDTKZ7Px8gSvhu0mshcrglMv5MtZffIzR1sxpIjsCjs1DdOusbX2m4537EdzbzyoA3s7a7olmBa6MtdTPPnbfeL6A5vwThc8MEMLSLgRswk6HwxAY6sQGlfeK4KUZ4n%2BS%2FCFvhrvVlm9C4h1zetiX%2FlVdF1Y%2FEgDL2iVtIyrAIwUzSTKCzNSRmA%2FDAXV9iOUhsnM4%2Bdp%2F%2BuSrj4ES%2F35i387h%2BgEUGqq9vpnrSaAexO%2FakMFkiIKuFA%2FHs9V6wTG82KmW0ZcS%2B01eEIVm8qlh%2FHh%2BkxGDxFtGekolT%2FIVyZ9AyGqEdGdzIo2%2BLfw3gkkN7B13zrRJ9j3Qk8KW7bSw8dZf14JwKzrA%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250813T050522Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV3CX7WE6%2F20250813%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e095ae987a4cc924c685ee52ce35fffb11c630786af8bdbdfb8a9ccfa57545ea&hash=060ecfbfc4a8135b7c963f314400e455ad00b581498c18351fe468bb1b7f02c4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1359028625000014&tid=spdf-b4f509c4-7431-41c8-9793-54f0f5d1aa84&sid=4f7e78e89550d04b7789cb74737aaba9ddbfgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0b0c5856035a070150&rr=96e5ad516f4609b8&cc=hk&kca=eyJrZXkiOiIvem1NbFNVMk9nR3pZdGRjbWdwTjA1cURqc0JUckxDSHVwWG10QUlZQUpyN2d4dXh6akRTMlZ1RXFKdzlKbUt1cWFQRGF4eTNTYmF0MGg2SGZRSFZITWJ3K2tNVXdyckI5QVNVNHNwRkNoSXk4SHQza1V5RnpWek9RSENEODJQM1VGQkhaNFJEYi9lRlNpU1FNSVRtRU5SckxPZWRmOG9pR0JvcGg3RElmdG1xL0YzWVV3PT0iLCJpdiI6IjU2NDE1MDdhNTVlNjZkMTg3MTE2NDUxNzZmODMzZTE3In0=_1755061528013)
+- [:fontawesome-solid-book: Machine Learning Force Fields](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.0c01111?ref=article_openPDF)
 - [:fontawesome-brands-youtube: A General Introduction of MLFF by Gabor Csanyi at IPAM](https://www.youtube.com/watch?v=JxIFxM1f40U)
 - [:fontawesome-brands-bilibili: 分子动力学/机器学习分子动力学实践](./md/2024-md.md)
 
 
-### Polymer Physics and Chemistry
-- [:fontawesome-solid-book: Polymer Physics by Rubinstein and Colby](../book_recommendation.md) 
-- [:fontawesome-solid-book: The Theory of Polymer Dynamics by Edwards and Doi](../book_recommendation.md) 
+### Coarse-Graining Theory and Models
+- [:fontawesome-solid-book: Coarse-Graining in Polymer Simulation](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/1439-7641%2820020916%293%3A9%3C754%3A%3AAID-CPHC754%3E3.0.CO%3B2-U) 
+- [:fontawesome-solid-book: Perspective for Predictive Coarse-Grained Models by Noid](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c08731?ref=article_openPDF)
 - [:fontawesome-solid-book: Scaling concepts in polymer physics](../book_recommendation.md) 
 
 
 !!! info "说明"
-    - :fontawesome-solid-book: : 书籍或文献资料等
-    - :fontawesome-brands-youtube: :fontawesome-brands-bilibili: : 视频教程
-    - :material-file-multiple: : 博客或文档等
+    - :fontawesome-solid-book: : Books or Papers
+    - :fontawesome-brands-youtube: :fontawesome-brands-bilibili: : Videos
+    - :material-file-multiple: : Blogs or Documents
