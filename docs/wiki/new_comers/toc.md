@@ -107,8 +107,9 @@ On the cluster, `Anaconda` has already been installed for everyone. For instruct
 
 
 ### Polymer Physics and Chemistry
-- [:fontawesome-solid-book: Deep Learning for Molecules & Materials](https://dmol.pub/index.html) 
-
+- [:fontawesome-solid-book: Polymer Physics by Rubinstein and Colby](../book_recommendation.md) 
+- [:fontawesome-solid-book: The Theory of Polymer Dynamics by Edwards and Doi](../book_recommendation.md) 
+- [:fontawesome-solid-book: Scaling concepts in polymer physics](../book_recommendation.md) 
 
 
 !!! info "说明"
