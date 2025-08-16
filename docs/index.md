@@ -15,8 +15,8 @@ This Wiki contains both technical and foundational knowledge essential for every
 
 1. [For New Members: Group Arrangements and Tutorial Sequence](wiki/new_comers/toc.md)
 2. [For All Members: Basic Cluster Usage](wiki/cluster_usage/cluster_usage.md)
-3. [For All Members: GPU Usage on Group Workstation](wiki/cluster_usage/gpu_usage.md)
-4. [For All Members: Cloud Storage Usage](wiki/cluster_usage/cloud_usage.md)
+3. [For All Members: GPU Usage on Group Workstation](wiki/cluster_usage/gpu_usage.md) 
+4. [For All Members: Cloud Storage Usage](wiki/cluster_usage/cloud_usage.md) [[Group Cloud](http://QuickConnect.to/wuresearchgroup)]
 5. [For All Members: Common Software Installation](wiki/software_installation/softwares.md)
 6. [For All Members: How to Edit and Contribute to Wiki](wiki/how_to_edit/howtodo.md)
 
