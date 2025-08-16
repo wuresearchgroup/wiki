@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to WuResearchGroup Wiki
 
-This is the group wiki for WuResearchGroup (Multiscale Molecular Modelling, (M)^3, pronouced as Cubic M or 米立方), led by Dr. Zhenghao (正浩) Wu (吴), at Xi'an Jiaotong Liverpool University (XJTLU). We welcome visitors to browse and contribute! If you have suggestions, please submit them via GitHub issues.
+This is the group wiki for WuResearchGroup (Multiscale Molecular Modelling, (M)^3, pronouced as Cubic M or 米立方) at Xi'an Jiaotong Liverpool University (XJTLU). We welcome visitors to browse and contribute! If you have suggestions, please submit them via GitHub issues.
 
 
 ## How to Use This Wiki
@@ -14,12 +14,19 @@ This is the group wiki for WuResearchGroup (Multiscale Molecular Modelling, (M)^
 This Wiki contains both technical and foundational knowledge essential for everyone. Technical knowledge covers fundamental concepts and coding skills, while foundational knowledge includes principles for writing articles, conducting academic research, and more. Below are some commonly used entry points for browsing and navigation.
 
 1. [For New Members: Group Arrangements and Tutorial Sequence](wiki/new_comers/toc.md)
-2. [For Group Members: Basic Cluster Usage](wiki/cluster_usage/cluster_usage.md)
-3. [For Group Members: GPU Usage on Cluster](wiki/cluster_usage/gpu_usage.md)
-4. [For Group Members: How to Edit and Contribute to Wiki](wiki/how_to_edit/howtodo.md)
-5. [For Cluster Administrators: Common Software Installation](wiki/software_installation/softwares.md)
+2. [For All Members: Basic Cluster Usage](wiki/cluster_usage/cluster_usage.md)
+3. [For All Members: GPU Usage on Group Workstation](wiki/cluster_usage/gpu_usage.md)
+4. [For All Members: Cloud Storage Usage](wiki/cluster_usage/cloud_usage.md)
+5. [For All Members: Common Software Installation](wiki/software_installation/softwares.md)
+6. [For All Members: How to Edit and Contribute to Wiki](wiki/how_to_edit/howtodo.md)
 
 > **Note**: Some training materials in this Wiki are from the other groups (e.g., Prof. Jun Cheng) and are retained as technical references. New materials will gradually be updated.
+
+### Quick Link
+- [Group Cloud](http://QuickConnect.to/wuresearchgroup)
+- [Group Website](https://wuresearchgroup.github.io/)
+- [Group Github](https://github.com/WuGroup-XJTLU)
+
 
 ## If You Have Questions
 
