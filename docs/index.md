@@ -26,7 +26,7 @@ This Wiki contains both technical and foundational knowledge essential for every
 - [Group Cloud](http://QuickConnect.to/wuresearchgroup)
 - [Group Website](https://wuresearchgroup.github.io/)
 - [Group Github](https://github.com/WuGroup-XJTLU)
-
+- [Draw Molecules](https://moleq.github.io/draw/)
 
 ## If You Have Questions
 

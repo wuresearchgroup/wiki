@@ -118,12 +118,12 @@ nav:
           - wiki/new_comers/md/2025-cmd.md
           - wiki/new_comers/ai/2024-ai.md
           - wiki/new_comers/ai/2024-train.md
-      #- Cluster Usage:
-      #    - wiki/cluster_usage/cluster_usage.md
+      - Cluster Usage:
+          - wiki/cluster_usage/cluster_usage.md
       #    - wiki/cluster_usage/ssh_note.md
       #    - wiki/cluster_usage/gpu_usage.md
       #    - wiki/cluster_usage/conda.md
-      #    - wiki/cluster_usage/vscode_remote.md
+          - wiki/cluster_usage/vscode_remote.md
       #    - wiki/cluster_usage/wsl_usage.md
       #     - wiki/cluster_usage/pack_backup.md
       #- wiki/book_recommendation.md
